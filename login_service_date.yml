@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: login_service_date
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/signin
