@@ -3,4 +3,4 @@ server:
 
 spring:
   application:
-    name: microservice1
+    name: registration_service
