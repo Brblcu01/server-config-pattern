@@ -4,14 +4,3 @@ server:
 spring:
   application:
     name: registration_service
-
-  datasource:
-    url: jdbc:mysql://localhost:3306/signin
-    username: root
-    password: 1234
-    driver-class-name: com.mysql.cj.jdbc.Driver
-
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
